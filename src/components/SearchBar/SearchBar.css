@@ -1,0 +1,14 @@
+.search-bar{
+    display: flex;
+    gap: 1rem;
+    flex-direction: column;
+    width: 500px;
+    align-self: center;
+    justify-content: center;
+    .wrapper{
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        gap: 1rem;
+    }
+}

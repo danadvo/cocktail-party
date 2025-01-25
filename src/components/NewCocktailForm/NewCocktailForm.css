@@ -1,0 +1,21 @@
+.new-cocktail-form{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    width: 100%;
+    .form{
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;
+        gap: 15px;
+        width: 500px;
+    }
+    .item{
+        display: flex;
+        gap: 15px;  
+        width: 100%;
+        height: 40px;
+    }
+}
